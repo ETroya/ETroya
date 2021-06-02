@@ -1,6 +1,6 @@
 ### Welcome To My Page! 👋
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=etroya.visitor-badge)
 
 - 🔭 I’m currently working on ...Prefecting my project in React
 - 🌱 I’m currently learning ... React
