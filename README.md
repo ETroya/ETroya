@@ -15,4 +15,7 @@
 <br>
 ![Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=etroya&langs_count=10&card_width=495&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)]
 
+## Lets Collab
+<img alt="Custom badge" src="https://img.shields.io/endpoint?label=Instagram&logo=Instagram&style=for-the-badge">
+
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=etroya.visitor-badge)
