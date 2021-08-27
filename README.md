@@ -12,6 +12,7 @@
 
 ## Progress Report
 ![Edwin Troya's Github progress](https://github-readme-stats.vercel.app/api?username=etroya&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)
+<br>
 ![Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=etroya&langs_count=10&card_width=495&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)]
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=etroya.visitor-badge)
