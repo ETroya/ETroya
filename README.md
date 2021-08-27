@@ -1,7 +1,7 @@
 # Welcome To My Page! 👋
 >
-## My name is [Edwin][Website]
-[![Header](img/header.png)](https://edwintroya.herokuapp.com)
+## My name is [Edwin](https://edwintroya.herokuapp.com)
+
 
 - 🔭 I’m currently working on ...Perfecting my project in React
 - 🌱 I’m currently learning ... React & Python 
