@@ -17,5 +17,5 @@
 
 ## Lets Collab
 
-![Custom badge](https://img.shields.io/endpoint?color=Green&label=Linkedin&logo=Linkedin&logoColor=Blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fedwin-troya%2F)
+
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=etroya.visitor-badge)
